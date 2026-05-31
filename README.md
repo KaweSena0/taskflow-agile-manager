@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow Agile Manager
 
 ## Descrição
@@ -20,3 +21,6 @@ Kanban
 
 ```bash
 python src/app.py
+=======
+# taskflow-agile-manager
+>>>>>>> 9d8cb20e3ea7ffa329dd51e904ade320b595a109
